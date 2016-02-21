@@ -3,7 +3,7 @@
 ## Information
 I loved, and still love electrical dance music ever since grade 7
 What got me into this amazing genre of music?  
-**SMK**.  
+**[SMK](https://www.youtube.com/user/SKILLZmakeKILLZ)**.  
 They are awesome.
 So from my love for their music, I wanted to make my own music player (with Gamemaker).
 
