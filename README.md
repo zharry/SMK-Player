@@ -8,6 +8,7 @@ They are awesome.
 So from my love for their music, I wanted to make my own music player (with Gamemaker).
 
 ## Usage
+* The compiled finished product is located in the "Binaries" folder
 * Upon opening the player, a random song will play
 * Clicking on the name of another song will put that song on repeat
 * Clicking "Play Random" will continue to loop through the entire playlist on a random basis
