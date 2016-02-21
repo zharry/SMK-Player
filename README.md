@@ -1,7 +1,7 @@
 # SMK-Player
 
 ## Information
-I loved, and still love electrical dance music ever since grade 7
+I loved, and still love electrical dance music ever since grade 7.  
 What got me into this amazing genre of music?  
 **[SMK](https://www.youtube.com/user/SKILLZmakeKILLZ)**.  
 They are awesome.
